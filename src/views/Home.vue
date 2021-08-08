@@ -6,9 +6,9 @@
   <div v-for="(section, index) in Object.keys(articles)" :key="index">
         <p>{{section}}</p>
 
-        <div v-for="article in articles[section]" :key="article.id"> 
-          {{article.title}}
-          {{article.description}}
+        <div v-for="article in articles[section]" :key="article.id" class="p-4 m-auto rounded-md bg-gray-100 border border-red-500 w-full h-52"> 
+         <h3> {{article.title}}</h3>
+         <p> {{article.description}}</p>
 
         </div>
 
