@@ -1,7 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <HelloWorld msg="Welcome to My Vue.js Markdown Blog App" />
 <!-- this parses the json file -->
 <div>
   <div v-for="(section, index) in Object.keys(articles)" :key="index">
