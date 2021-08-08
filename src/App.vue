@@ -5,8 +5,18 @@
       <router-link to="/about">About</router-link>
     </div>
     <router-view />
+        <test />
+
   </div>
 </template>
+<script>
+import test from "@/components/test.md";
+export default {
+  components: {
+    test,
+  },
+};
+</script>
 
 <style lang="scss">
 #app {
