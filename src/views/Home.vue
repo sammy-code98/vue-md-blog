@@ -2,13 +2,13 @@
   <div class="home">
     <HelloWorld msg="Welcome to My Vue.js Markdown Blog App" />
 <!-- this parses the json file -->
-<div>
+<div class="grid grid-cols-2 px-3  py-3  gap-6">
   <div v-for="(section, index) in Object.keys(articles)" :key="index">
         <p>{{section}}</p>
 
-        <div v-for="article in articles[section]" :key="article.id" class="p-4 m-auto rounded-md bg-gray-100 border border-red-500 w-full h-52"> 
+        <div v-for="article in articles[section]" :key="article.id" class="my-6 shadow-lg rounded-md bg-gray-100 "> 
          <h3> {{article.title}}</h3>
-         <p> {{article.description}}</p>
+         <p class="truncate"> {{article.description}}</p>
 
         </div>
 
