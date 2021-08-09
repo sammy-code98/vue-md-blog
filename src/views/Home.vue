@@ -7,7 +7,7 @@
         <p class="text-xl font-semibold">{{section}}</p>
 
         <div v-for="article in articles[section]" :key="article.id" class="my-6 p-3 cursor-pointer  shadow-lg rounded-md bg-gray-100 hover:bg-gray-300" @click="$router.push({name:article.id})"> 
-          <img src="../assets/logo.png" class="m-auto"/>
+          <img :src="article.image" class="m-auto"/>
          <h3 class="text-lg font-bold"> {{article.title}}</h3>
          <p class="truncate tracking-wider p-2"> {{article.description}}</p>
 
