@@ -1,14 +1,15 @@
 <template>
   <div class="home">
-    <HelloWorld msg="Welcome to My Vue.js Markdown Blog App" />
+    <HelloWorld msg="Welcome to My Vue.js Markdown Blog App" class="text-3xl" />
 <!-- this parses the json file -->
-<div class="grid grid-cols-2 px-3  py-3  gap-6">
+<div class="grid grid-cols-2 px-6  py-3  gap-8">
   <div v-for="(section, index) in Object.keys(articles)" :key="index">
-        <p>{{section}}</p>
+        <p class="text-xl font-semibold">{{section}}</p>
 
-        <div v-for="article in articles[section]" :key="article.id" class="my-6 shadow-lg rounded-md bg-gray-100 "> 
-         <h3> {{article.title}}</h3>
-         <p class="truncate"> {{article.description}}</p>
+        <div v-for="article in articles[section]" :key="article.id" class="my-6 p-3 shadow-lg rounded-md bg-gray-100 "> 
+          <img src="../assets/logo.png" class="m-auto"/>
+         <h3 class="text-lg font-bold"> {{article.title}}</h3>
+         <p class="truncate tracking-wider p-2"> {{article.description}}</p>
 
         </div>
 
