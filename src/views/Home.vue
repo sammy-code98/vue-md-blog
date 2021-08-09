@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="home my-4">
     <HelloWorld msg="Welcome to My Vue.js Markdown Blog App" class="text-3xl" />
 <!-- this parses the json file -->
 <div class="grid grid-cols-2 px-6  py-3  gap-8">

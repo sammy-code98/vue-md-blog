@@ -1,6 +1,6 @@
 <template>
   <div id="app" class="bg-gray-50">
-    <div id="nav">
+    <div id="nav" class="sticky top-0 border shadow-md bg-gray-50">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
