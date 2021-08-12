@@ -6,7 +6,7 @@
     <div class="m-3">
       <p class="my-4 font-normal text-gray-500 text-center">Subscribe to our newsletter</p>
       <form>
-        <input class="border-2 rounded-sm mx-2 px-3 focus:border-gray-900 " type="email">
+        <input class="border-2 rounded-md mx-2 px-3 focus:border-gray-900 " type="email">
         <button class="bg-gray-900 rounded-md p-1 font-bold text-white px-4 mx-3 my-4 hover:text-gray-900 hover:bg-white">Submit</button>
       </form>
     </div>
