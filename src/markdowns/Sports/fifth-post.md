@@ -1,142 +1,19 @@
 
-# Project Title
 
-A brief description of what this project does and who it's for
+# Chelsea are Super Cup champions!
 
+The Blues defeated Villarreal on penalties in Belfast, with **Kepa Arrizabalaga** coming off the bench to save Raul Albiol’s spot-kick and ensure that another European trophy would be heading back to London.
 
-## Acknowledgements
+akim Ziyech had earlier netted for Thomas Tuchel’s side, before Gerard Moreno levelled the scores in the second half and after a further 30 minutes of extra-time couldn’t settle the sides, penalties were required.
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+Cesar Azpilicueta, Marcos Alonso, Mason Mount and Jorginho were the Blues on target and after Kepa saved Albiol’s effort, the celebrations could begin!
 
-  
-## API Reference
+Take a look at the best images from the post-match celebrations below…
+ 
+ ![image1](https://res.cloudinary.com/chelsea-production/imag…1/chelsea-app/Celebrations-GettyImages-1333643303)
 
-#### Get all items
-
-```http
-  GET /api/items
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
-
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
-
-#### add(num1, num2)
-
-Takes two numbers and returns the sum.
-
-  
-## Appendix
-
-Any additional information goes here
-
-  
-## Authors
-
-- [@katherinepeterson](https://www.github.com/octokatherine)
-
-  
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
-  ## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+ ![image](https://res.cloudinary.com/chelsea-production/imag…yers-celebrating-super-cup-GettyImages-1333644109)
 
 
-## Contributing
 
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
-  
-## Demo
-
-Insert gif or link to demo
-
-  
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
-  
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
-  
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
-
-  
-## FAQ
-
-#### Question 1
-
-Answer 1
-
-#### Question 2
-
-Answer 2
-
-  
-## 🚀 About Me
-I'm a full stack developer...
-
-  
-# Hi, I'm Katherine! 👋
-
-  
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-  
-## 🛠 Skills
-Javascript, HTML, CSS...
-
-  
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
     
