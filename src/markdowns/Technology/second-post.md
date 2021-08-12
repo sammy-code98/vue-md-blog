@@ -1,142 +1,37 @@
+# Writing your first line of code
+---
+<br/>
+<img src="https://images.unsplash.com/photo-1511376777868-611b54f68947?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8JTIzcHJvZ3JhbW1lcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"  style="width:100%; margin:auto;"/>
+<br/>
+<br/>
+Getting to write your first line of code can be tricky and overwhelming. 
 
-# Project Title
 
-A brief description of what this project does and who it's for
+But here is a list of things to get you started.
+1. Download  [Vscode](https://code.visualstudio.com/download)
+1. Get [Chrome](https://www.google.com/chrome/?brand=JJTC&gclid=CjwKCAjwjdOIBhA_EiwAHz8xm8TlahdjZP2KwzzZpb5sQDAeafgNljYjAjbDBvalwFdJUscM2zGabBoCeLUQAvD_BwE&gclsrc=aw.ds) Browers
+1. head over to [freecodecamp](https://www.freecodecamp.org) and get started with their web development course.
 
 
-## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+<br/>
+<br/>
 
-  
-## API Reference
+## CODE SNIPPET
+<br/>
 
-#### Get all items
 
-```http
-  GET /api/items
+
+```HTML
+<html>
+       <head><head/>
+        <body>
+          <h1>hello  world<h1/>
+          <p>violla , this is my first code<p/>
+        <body/>   
+<html/>
 ```
 
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
+<br/>
 
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
-
-#### add(num1, num2)
-
-Takes two numbers and returns the sum.
-
-  
-## Appendix
-
-Any additional information goes here
-
-  
-## Authors
-
-- [@katherinepeterson](https://www.github.com/octokatherine)
-
-  
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
-  ## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-
-
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
-  
-## Demo
-
-Insert gif or link to demo
-
-  
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
-  
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
-  
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
-
-  
-## FAQ
-
-#### Question 1
-
-Answer 1
-
-#### Question 2
-
-Answer 2
-
-  
-## 🚀 About Me
-I'm a full stack developer...
-
-  
-# Hi, I'm Katherine! 👋
-
-  
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-  
-## 🛠 Skills
-Javascript, HTML, CSS...
-
-  
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
+**Viola!! keep learning and practicing**

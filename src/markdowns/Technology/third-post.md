@@ -1,142 +1,46 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-  
-## API Reference
-
-#### Get all items
-
-```http
-  GET /api/items
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
-
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
-
-#### add(num1, num2)
-
-Takes two numbers and returns the sum.
-
-  
-## Appendix
-
-Any additional information goes here
-
-  
-## Authors
-
-- [@katherinepeterson](https://www.github.com/octokatherine)
-
-  
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
-  ## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+# The troubles of working remotely
+<br/>
+<br/>
+<img  src="https://images.unsplash.com/photo-1542546068979-b6affb46ea8f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8JTIzcHJvZ3JhbW1lcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" style="width:80%; height:60%; margin:auto;"/>
+<br/>
+<br/>
 
 
-## Contributing
 
-Contributions are always welcome!
+In 2015, it was estimated that almost 45% of US employees worked remotely, mostly from home.  By 2020, it is estimated that about 50% of the workforce will be working remotely. Cloud services, mobile platforms and videoconferencing have made remote work possible and very acceptable to both employees and employers.
 
-See `contributing.md` for ways to get started.
+However, with everything, there are pros and cons. So before you make the change from working in an office to working at home or from another location, you might want to first consider these advantages and disadvantages:
 
-Please adhere to this project's `code of conduct`.
+### Advantages
 
-  
-## Demo
+Work from anywhere and anytime. No longer are you limited by a geographic location or a clock. Thanks to telecommuting, employees are now able to work from pretty much anywhere at any time of day. The traditional 9-5 working day no longer applies.
 
-Insert gif or link to demo
+No daily commute. Most people don’t enjoy their daily trek into an office. Working remote allows you to avoid a lengthy commute by car, train, or bus which enables you to start your workday earlier and calmer.
 
-  
-## Deployment
+Flexibility. You would be in charge of your own schedule and possibly more efficient. Working from home and the flexibility it offers, may also suit your family life.  You would have the freedom to run errands, take the kids to school, attend school or sports functions, etc. as long as you get the job done and meet any pre-established deadlines.
 
-To deploy this project run
+Less costly.  Working from a remote location or from home, means you save money on transportation costs, eating lunch out, and purchasing a business wardrobe. Unless you do video conferencing, you can wear informal clothes and no longer need to budget for that work wardrobe.
 
-```bash
-  npm run deploy
-```
+Better health.  Remote workers say they have more time to incorporate physical exercise into their day.  In addition, they are not exposed to sick co-workers. On the flip side, if you’re the sick person, staying home allows you to take care of yourself while still being productive.
 
-  
-## Documentation
+Less interruptions.  Working remotely allows you to focus on the job at hand without the distractions of socializing and office chatter.  You have the ability to get into the zone and buckle down to complete your assignment.
 
-[Documentation](https://linktodocumentation)
+### Disadvantages
 
-  
-## Environment Variables
+Need for high self-discipline. It takes a lot of dedication and self-control to work at home and not succumb to distractions. It’s easy to lose motivation and focus which are pitfalls to your success. Therefore, it’s important to be intentional about how you’re using your time. You need to structure your environment in such a way that keeps you engaged.
 
-To run this project, you will need to add the following environment variables to your .env file
 
-`API_KEY`
+Lack of workplace social life. You can easily interact with co-workers and clients via technology but it’s not the same as face-to-face meetings, lunching together or just everyday banter. Remote workers often feel isolated.  To counteract isolation, try going into the office now and then or schedule lunch dates with bosses and colleagues.
 
-`ANOTHER_API_KEY`
 
-  
-## FAQ
 
-#### Question 1
+Overlooked for promotions. There’s a danger of being overlooked for promotions or career development opportunities when working remotely. Those visible employees in the office who are aggressively campaigning for the position will probably have the edge. You can try and counter with regular visits to the office and open lines of communication. You need to express your interest in the upward mobility you want.
 
-Answer 1
 
-#### Question 2
+Total dependency on technology.  As a remote worker, you have to rely on email, smart phones, laptop, etc. to stay in contact with the office and clients. You are totally dependent on the right technology to be in business. It’s also up to you to keep up with technology that evolves so rapidly.
 
-Answer 2
 
-  
-## 🚀 About Me
-I'm a full stack developer...
+Blurred lines. You would think that working remote would allow you to enjoy more of a work/life balance but actually it doesn’t.  When you don’t have a clear separation of workplace and home space, they can blend together. You might not be able to just switch-off from work and find yourself constantly checking your smart phone and emails.
 
-  
-# Hi, I'm Katherine! 👋
 
-  
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-  
-## 🛠 Skills
-Javascript, HTML, CSS...
-
-  
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
+There’s no doubt that remote work is on the rise. It’s easier than ever to stay connected in our era of email and smart phones and many employees believe it increases their quality of life.

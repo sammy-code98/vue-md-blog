@@ -1,5 +1,5 @@
 <template>
-<div class="flex flex-col items-center align-center ">
+<div class="flex flex-col items-center align-center m-6">
   <div >
     <router-link
       to="/"
